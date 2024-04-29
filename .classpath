@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Java测试2022/Test2022_11_24/|Java测试2022/|蓝桥杯练习/|Java测试2022/Test2022_12_06/|Java测试2022/Test2022_12_09/|蓝桥杯练习/蓝桥杯2022模拟二/|Java测试2022/Test2022_10_22/|力扣题/" kind="src" path="src"/>
+	<classpathentry excluding="蓝桥杯2022模拟二/" kind="src" path="src/蓝桥杯练习"/>
+	<classpathentry kind="src" path="src/蓝桥杯练习/蓝桥杯2022模拟二"/>
+	<classpathentry kind="src" path="src/力扣题"/>
+	<classpathentry excluding="Test2022_11_24/|Test2022_12_06/|Test2022_12_09/|Test2022_10_22/" kind="src" path="src/Java测试2022"/>
+	<classpathentry kind="src" path="src/Java测试2022/Test2022_10_22"/>
+	<classpathentry kind="src" path="src/Java测试2022/Test2022_11_24"/>
+	<classpathentry kind="src" path="src/Java测试2022/Test2022_12_06"/>
+	<classpathentry kind="src" path="src/Java测试2022/Test2022_12_09"/>
+	<classpathentry kind="output" path="out/production/test01"/>
+</classpath>
