@@ -5,5 +5,7 @@ public class MMMM {
         String s= "s";
         String ss = "ss";
         System.out.println(s+ss);
+        System.out.println(s+ss+ss);
+        System.out.println(s);
     }
 }
