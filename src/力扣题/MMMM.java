@@ -7,5 +7,6 @@ public class MMMM {
         System.out.println(s+ss);
         System.out.println(s+ss+ss);
         System.out.println(s);
+        System.out.println(ss);
     }
 }
